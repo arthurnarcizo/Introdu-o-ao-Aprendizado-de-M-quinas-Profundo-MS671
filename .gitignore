@@ -1,0 +1,34 @@
+# LaTeX - Arquivos auxiliares e de compilação
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.blg
+*.bbl
+*.out
+*.fdb_latexmk
+*.fls
+*.pdfsync
+
+# Python e Google Colab
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.virtualenv/
+env/
+venv/
+
+# Arquivos de sistema e backups
+.DS_Store
+Thumbs.db
+*~
+*.bak
+
+# Arquivos pesados de pesos e dados (caso fiquem salvos localmente por engano)
+*.weights
+*.pt
+*.pth
+*.zip
+*.tgz
