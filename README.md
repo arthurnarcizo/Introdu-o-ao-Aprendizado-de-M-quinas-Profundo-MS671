@@ -61,3 +61,14 @@ Para reproduzir os testes:
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
+
+## Referências Principais
+
+* [1] UNICAMP. Material de apoio da disciplina MS671 Aprendizado Profundo. IMECC, 2026.
+
+
+* [2] REDMON, J.; FARHADI, A. YOLOv3: An Incremental Improvement. arXiv preprint arXiv:1804.02767, 2018.
+
+
+* [3] LIN, T.-Y. et al. Microsoft COCO: Common Objects in Context. In: European conference on computer vision. Springer, Cham, 2014.
+
